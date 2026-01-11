@@ -63,4 +63,7 @@ I combine strong software engineering experience with practical AI integration a
 
 ---
 ✨ Happy coding and may your builds be always green✅
+
 🕵️ Recruiters: happy hunting – good code always leaves good tracks.
+
+👋Keep Coding👋
