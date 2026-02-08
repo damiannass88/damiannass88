@@ -55,11 +55,10 @@ I combine strong software engineering experience with practical AI integration a
 ## 📫 Contact
 
 - 🌐 Website: https://nas4.tech
-- 🌐 Website: https://adwers.com
 - YT Channel: https://www.youtube.com/channel/UC1bxTp_9tIfq5YBXhvx8Jpg  
 - 💼 LinkedIn: https://www.linkedin.com/in/damian-nass-887277193  
 - 📨 GitHub: https://github.com/damiannass88
-- 🙎🏻‍♂️ My Profile page: https://adwers.com/damiannass
+- 🙎🏻‍♂️ My Profile page: https://damiannass.com/en
 
 ---
 ✨ Happy coding and may your builds be always green✅
